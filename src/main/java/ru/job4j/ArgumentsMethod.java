@@ -1,3 +1,5 @@
+package ru.job4j.calculator;
+
 public class ArgumentsMethod {
 
     public static void hello(String name, int age) {
